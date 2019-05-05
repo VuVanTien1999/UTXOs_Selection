@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\vu van tien\source\repos\utxo_selection\utxo_selection\main.cpp(160): warning C4244: 'argument': conversion from '__int64' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=long
+          ]
+c:\users\vu van tien\source\repos\utxo_selection\utxo_selection\main.cpp(168): warning C4244: 'argument': conversion from '__int64' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=long
+          ]
+c:\users\vu van tien\source\repos\utxo_selection\utxo_selection\main.cpp(220): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+c:\users\vu van tien\source\repos\utxo_selection\utxo_selection\main.cpp(221): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+c:\users\vu van tien\source\repos\utxo_selection\utxo_selection\main.cpp(291): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+  UTXO_Selection.vcxproj -> C:\Users\Vu Van Tien\source\repos\UTXO_Selection\x64\Debug\UTXO_Selection.exe
